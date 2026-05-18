@@ -62,27 +62,40 @@ Personal Brand Growth
 
 ---
 
-### 🧠 Current Mindset
-
-> “Not rushing. Just building it properly.”
-
----
-
-# 🌐 Connect With Me
+# ⚡ Current Mission
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/tahseen-alam-588782380?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
-<img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<div style="display: flex; gap: 12px; justify-content: center; flex-wrap: wrap;">
 
-<a href="https://www.instagram.com/talam_7867?igsh=Y29hcmtqYnVjZGU4">
-<img src="https://img.shields.io/badge/Singing_Account-312e81?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
+<div>
 
-<a href="https://www.instagram.com/taish_1427?igsh=MWl1dW1yMmgyb2psaQ==">
-<img src="https://img.shields.io/badge/Digital_Products-4338ca?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
+### 🎨 Design Thinking
+Improving UI/UX sense  
+Building clean interfaces  
+Studying real app designs  
+
+</div>
+
+<div>
+
+### 💻 Frontend Build
+HTML • CSS • JavaScript  
+Small projects → real websites  
+Learning modern web flow  
+
+</div>
+
+<div>
+
+### 🚀 Growth Mode
+Digital products (PDFs)  
+Personal brand building  
+Creative online income  
+
+</div>
+
+</div>
 
 </div>
 
