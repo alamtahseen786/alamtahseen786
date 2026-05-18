@@ -4,7 +4,6 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=23&pause=1000&color=C084FC&center=true&vCenter=true&width=800&lines=Frontend+Developer;Graphic+Designer;Digital+Creator;Learning+JavaScript;Creating+Aesthetic+Experiences"/>
 
-<br><br>
 
 <img src="https://i.pinimg.com/originals/8c/4d/ce/8c4dce4d4a2cb8f7f1ef9f5cbcb6f6df.gif" width="75%" style="border-radius:20px;"/>
 
@@ -19,8 +18,6 @@
 - 🎨 Graphic Designer
 - 📚 Digital Product Seller
 - 🎤 Singer
-- 🌌 Anime Lover
-- 🚀 Currently learning JavaScript
 
 ---
 
