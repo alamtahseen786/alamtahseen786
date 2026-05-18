@@ -20,39 +20,64 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&pause=1000&color=A78BFA&center=true&vCenter=true&width=900&lines=Hi+I'm+Tahseen+Alam;Frontend+Developer+in+Progress;Digital+Creator+%7C+Designer;I+Build+Clean+and+Simple+Web+Experiences;Learning+JavaScript+Every+Day"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&pause=1000&color=A78BFA&center=true&vCenter=true&width=900&lines=Hi+I'm+Tahseen+Alam;Frontend+Developer+in+Progress;Digital+Creator+%7C+Designer;I+Build+Clean+Web+Experiences;Learning+Every+Day"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<table>
+<tr>
+
+<td width="300" align="center">
+
+### 👤 Profile
+Tahseen Alam  
+Frontend Developer  
+Digital Creator  
+Canva Designer  
+
+</td>
+
+<td width="300" align="center">
+
+### 💡 What I Do
+Build websites  
+Design UI layouts  
+Create digital PDFs  
+Learn JavaScript  
+
+</td>
+
+<td width="300" align="center">
+
+### 🎯 Focus
+Clean UI design  
+Frontend mastery  
+Personal branding  
+Creative projects  
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
 ---
 
-Hi, I'm **Tahseen Alam** — a frontend developer in progress, digital creator, and designer.
+## ✨ About Me (Short)
 
-I enjoy building clean and simple web interfaces that feel smooth, useful, and visually balanced.
-
----
-
-## 🧭 What I Do
-
-- 💻 Frontend Development (HTML, CSS, JavaScript)
-- 🎨 UI/UX & Canva Designing
-- 📚 Creating and selling digital PDF products
-- 🌐 Building and growing my personal brand
-
----
-
-## ⚡ Current Focus
-
-Right now, I’m focused on improving my frontend development skills and understanding how real-world websites are structured and designed.
-
-I’m also learning how design and code work together to create better user experiences.
+I am a frontend developer in progress who loves building clean, simple, and useful web experiences.  
+I also work on digital design and creative content using Canva and other tools.
 
 ---
 
 ## 🎯 Mindset
 
-> “I’m not trying to be perfect. I’m trying to be better than yesterday.”
-
+> “Consistency beats motivation every time.”
 <!-- ================= CONNECT ================= -->
 
 # 🌐 Connect With Me
