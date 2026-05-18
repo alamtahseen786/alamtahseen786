@@ -59,48 +59,7 @@ Personal Brand Growth
 
 > I focus on building simple, clean and functional digital experiences.  
 > I like turning ideas into visual designs and learning how the web actually feels to users.
-
----
-
-# ⚡ Current Mission
-
-<div align="center">
-
-<div style="display: flex; gap: 12px; justify-content: center; flex-wrap: wrap;">
-
-<div>
-
-### 🎨 Design Thinking
-Improving UI/UX sense  
-Building clean interfaces  
-Studying real app designs  
-
-</div>
-
-<div>
-
-### 💻 Frontend Build
-HTML • CSS • JavaScript  
-Small projects → real websites  
-Learning modern web flow  
-
-</div>
-
-<div>
-
-### 🚀 Growth Mode
-Digital products (PDFs)  
-Personal brand building  
-Creative online income  
-
-</div>
-
-</div>
-
-</div>
-
----
-
+ 
 # ⚒️ Tech Stack
 
 <div align="center">
@@ -128,34 +87,39 @@ Creative online income
 <div align="center">
 
 <table>
+
 <tr>
-<td align="center" width="220">
+<td width="33%" align="center">
 
-<img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" width="55"/>
-
-### Frontend Journey
-Creating smooth and aesthetic web experiences.
-
-</td>
-
-<td align="center" width="220">
-
-<img src="https://cdn-icons-png.flaticon.com/512/1828/1828919.png" width="55"/>
-
-### UI Creativity
-Improving clean UI/UX and visual design skills.
+## 🎨 Design System
+- UI/UX understanding  
+- Clean layout thinking  
+- Aesthetic consistency  
+- Canva design practice  
 
 </td>
 
-<td align="center" width="220">
+<td width="33%" align="center">
 
-<img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" width="55"/>
+## 💻 Development
+- HTML, CSS, JavaScript  
+- Frontend projects  
+- Website building practice  
+- Learning modern UI flow  
 
-### Digital Growth
-Growing creative digital products and projects.
+</td>
+
+<td width="33%" align="center">
+
+## 🚀 Growth Path
+- Digital product creation  
+- PDF selling & branding  
+- Personal portfolio growth  
+- Building online presence  
 
 </td>
 </tr>
+
 </table>
 
 </div>
