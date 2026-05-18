@@ -20,7 +20,6 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&pause=1000&color=A78BFA&center=true&vCenter=true&width=900&lines=Hi+I'm+Tahseen+Alam;Frontend+Developer+in+Progress;Digital+Creator+%7C+Designer;I+Build+Clean+Web+Experiences;Learning+Every+Day"/>
 
 </div>
 
