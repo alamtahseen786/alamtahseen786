@@ -67,7 +67,7 @@ Creative projects
 
 ---
 
-## ✨ About Me (Short)
+## ✨ About Me
 
 I am a frontend developer in progress who loves building clean, simple, and useful web experiences.  
 I also work on digital design and creative content using Canva and other tools.
