@@ -14,12 +14,57 @@
 
 # 👨‍💻 About Me
 
-- 💻 Frontend Developer
-- 🎨 Graphic Designer
-- 📚 Digital Product Seller
-- 🎤 Singer
-- 🌌 Anime Enthusiast
-- 🚀 Learning JavaScript
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center" width="260">
+
+### 🧑 Identity
+Tahseen Alam  
+Frontend Developer in progress  
+Digital Creator & Designer  
+
+</td>
+
+<td align="center" width="260">
+
+### ⚡ What I Do
+Build clean web interfaces  
+Design visuals in Canva  
+Create and sell digital PDFs  
+Explore modern UI ideas  
+
+</td>
+
+<td align="center" width="260">
+
+### 🎯 Focus
+Frontend Development  
+UI/UX Improvement  
+Creative Digital Products  
+Personal Brand Growth  
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+### 🌌 Short Bio
+
+> I focus on building simple, clean and functional digital experiences.  
+> I like turning ideas into visual designs and learning how the web actually feels to users.
+
+---
+
+### 🧠 Current Mindset
+
+> “Not rushing. Just building it properly.”
 
 ---
 
