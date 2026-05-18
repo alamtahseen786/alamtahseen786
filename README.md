@@ -1,12 +1,12 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:000000,30:7f1d1d,70:0ea5e9,100:1e1b4b&text=TAHSEEN%20ALAM&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20•%20Digital%20Creator&descAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:d8b4fe,30:a78bfa,60:7c3aed,100:4c1d95&text=TAHSEEN%20ALAM&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20•%20Digital%20Creator&descAlignY=58"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=850&lines=Frontend+Developer;Digital+Creator;Graphic+Designer;Learning+JavaScript;Building+Cool+Things;Consistency+builds+what+motivation+starts."/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=23&pause=1000&color=C084FC&center=true&vCenter=true&width=800&lines=Frontend+Developer;Graphic+Designer;Digital+Creator;Learning+JavaScript;Creating+Aesthetic+Experiences"/>
 
 <br><br>
 
-<img src="https://media.tenor.com/e4OS4L0W3H0AAAAC/rengoku-akaza.gif" width="80%"/>
+<img src="https://i.pinimg.com/originals/8c/4d/ce/8c4dce4d4a2cb8f7f1ef9f5cbcb6f6df.gif" width="75%" style="border-radius:20px;"/>
 
 </div>
 
