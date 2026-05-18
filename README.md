@@ -96,51 +96,6 @@ Digital Business (PDFs)
 
 ---
 
-<!-- ================= CURRENT MISSION ================= -->
-
-# ⚡ Current Mission
-
-<div align="center">
-
-<table>
-
-<tr>
-<td width="33%" align="center">
-
-## 🎨 Design System
-UI/UX understanding  
-Clean layouts  
-Visual consistency  
-Canva practice  
-
-</td>
-
-<td width="33%" align="center">
-
-## 💻 Development
-HTML, CSS, JS  
-Frontend projects  
-Website building  
-UI practice  
-
-</td>
-
-<td width="33%" align="center">
-
-## 🚀 Growth Path
-Digital PDFs  
-Personal branding  
-Online presence  
-Creative income  
-
-</td>
-</tr>
-
-</table>
-
-</div>
-
----
 
 <!-- ================= STATS ================= -->
 
