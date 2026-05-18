@@ -1,10 +1,12 @@
+<!-- ================= HEADER ================= -->
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0f0f0f,35:312e81,70:4338ca,100:0f172a&text=TAHSEEN%20ALAM&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20•%20Digital%20Creator&descAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0f0f0f,30:312e81,60:1e1b4b,100:0f172a&text=TAHSEEN%20ALAM&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20•%20Digital%20Creator%20•%20Designer&descAlignY=58"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&width=850&lines=Frontend+Developer;Graphic+Designer;Digital+Creator;Building+Clean+Web+Experiences;Learning+JavaScript"/>
 
 <br>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&width=850&lines=Frontend+Developer;Graphic+Designer;Digital+Creator;Learning+JavaScript;Building+Clean+and+Aesthetic+Experiences"/>
 
 <img src="https://media.tenor.com/e4OS4L0W3H0AAAAC/rengoku-akaza.gif" width="78%"/>
 
@@ -12,54 +14,78 @@
 
 ---
 
+<!-- ================= ABOUT ================= -->
+
 # 👨‍💻 About Me
 
 <div align="center">
 
 <table>
+
 <tr>
 
-<td align="center" width="260">
+<td width="33%" align="center">
 
-### 🧑 Identity
+## 🧑 Identity
 Tahseen Alam  
-Frontend Developer in progress  
-Digital Creator & Designer  
+Frontend Developer  
+Digital Creator  
+Canva Designer  
 
 </td>
 
-<td align="center" width="260">
+<td width="33%" align="center">
 
-### ⚡ What I Do
-Build clean web interfaces  
-Design visuals in Canva  
-Create and sell digital PDFs  
-Explore modern UI ideas  
+## ⚡ Work
+HTML • CSS • JavaScript  
+Website Building Practice  
+UI Design Learning  
+Digital Product Creation  
 
 </td>
 
-<td align="center" width="260">
+<td width="33%" align="center">
 
-### 🎯 Focus
+## 🎯 Focus
 Frontend Development  
 UI/UX Improvement  
-Creative Digital Products  
 Personal Brand Growth  
+Digital Business (PDFs)  
 
 </td>
 
 </tr>
+
 </table>
 
 </div>
 
 ---
 
-### 🌌 Short Bio
+<!-- ================= CONNECT ================= -->
 
-> I focus on building simple, clean and functional digital experiences.  
-> I like turning ideas into visual designs and learning how the web actually feels to users.
- 
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/tahseen-alam-588782380?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+<img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/talam_7867?igsh=Y29hcmtqYnVjZGU4">
+<img src="https://img.shields.io/badge/Singing%20Account-312e81?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/taish_1427?igsh=MWl1dW1yMmgyb2psaQ==">
+<img src="https://img.shields.io/badge/Digital%20Products-1e1b4b?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<!-- ================= TECH STACK ================= -->
+
 # ⚒️ Tech Stack
 
 <div align="center">
@@ -69,6 +95,54 @@ Personal Brand Growth
 </div>
 
 ---
+
+<!-- ================= CURRENT MISSION ================= -->
+
+# ⚡ Current Mission
+
+<div align="center">
+
+<table>
+
+<tr>
+<td width="33%" align="center">
+
+## 🎨 Design System
+UI/UX understanding  
+Clean layouts  
+Visual consistency  
+Canva practice  
+
+</td>
+
+<td width="33%" align="center">
+
+## 💻 Development
+HTML, CSS, JS  
+Frontend projects  
+Website building  
+UI practice  
+
+</td>
+
+<td width="33%" align="center">
+
+## 🚀 Growth Path
+Digital PDFs  
+Personal branding  
+Online presence  
+Creative income  
+
+</td>
+</tr>
+
+</table>
+
+</div>
+
+---
+
+<!-- ================= STATS ================= -->
 
 # 📊 GitHub Stats
 
@@ -82,52 +156,22 @@ Personal Brand Growth
 
 ---
 
-# ⚡ Current Mission
+<!-- ================= GOAL ================= -->
 
-<div align="center">
+# 🎯 Current Focus
 
-<table>
-
-<tr>
-<td width="33%" align="center">
-
-## 🎨 Design System
-- UI/UX understanding  
-- Clean layout thinking  
-- Aesthetic consistency  
-- Canva design practice  
-
-</td>
-
-<td width="33%" align="center">
-
-## 💻 Development
-- HTML, CSS, JavaScript  
-- Frontend projects  
-- Website building practice  
-- Learning modern UI flow  
-
-</td>
-
-<td width="33%" align="center">
-
-## 🚀 Growth Path
-- Digital product creation  
-- PDF selling & branding  
-- Personal portfolio growth  
-- Building online presence  
-
-</td>
-</tr>
-
-</table>
-
-</div>
+- Learn JavaScript deeply  
+- Build clean frontend projects  
+- Improve UI/UX design sense  
+- Grow digital product business  
+- Build strong personal brand  
 
 ---
 
+<!-- ================= FOOTER ================= -->
+
 <div align="center">
 
-## ✨ Built quietly. Improved daily.
+## ✨ Built quietly. Improving daily.
 
 </div>
