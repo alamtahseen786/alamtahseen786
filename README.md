@@ -65,12 +65,42 @@
 
 ---
 
-# 🎯 Current Goals
+# ⚡ Current Mission
 
-- Learn advanced JavaScript
-- Build aesthetic frontend projects
-- Create better UI/UX
-- Grow digital products business
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="220">
+
+<img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" width="55"/>
+
+### Frontend Journey
+Creating smooth and aesthetic web experiences.
+
+</td>
+
+<td align="center" width="220">
+
+<img src="https://cdn-icons-png.flaticon.com/512/1828/1828919.png" width="55"/>
+
+### UI Creativity
+Improving clean UI/UX and visual design skills.
+
+</td>
+
+<td align="center" width="220">
+
+<img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" width="55"/>
+
+### Digital Growth
+Growing creative digital products and projects.
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
