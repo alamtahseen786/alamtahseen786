@@ -20,47 +20,38 @@
 
 <div align="center">
 
-<table>
-
-<tr>
-
-<td width="33%" align="center">
-
-## 🧑 Identity
-Tahseen Alam  
-Frontend Developer  
-Digital Creator  
-Canva Designer  
-
-</td>
-
-<td width="33%" align="center">
-
-## ⚡ Work
-HTML • CSS • JavaScript  
-Website Building Practice  
-UI Design Learning  
-Digital Product Creation  
-
-</td>
-
-<td width="33%" align="center">
-
-## 🎯 Focus
-Frontend Development  
-UI/UX Improvement  
-Personal Brand Growth  
-Digital Business (PDFs)  
-
-</td>
-
-</tr>
-
-</table>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&pause=1000&color=A78BFA&center=true&vCenter=true&width=900&lines=Hi+I'm+Tahseen+Alam;Frontend+Developer+in+Progress;Digital+Creator+%7C+Designer;I+Build+Clean+and+Simple+Web+Experiences;Learning+JavaScript+Every+Day"/>
 
 </div>
 
 ---
+
+Hi, I'm **Tahseen Alam** — a frontend developer in progress, digital creator, and designer.
+
+I enjoy building clean and simple web interfaces that feel smooth, useful, and visually balanced.
+
+---
+
+## 🧭 What I Do
+
+- 💻 Frontend Development (HTML, CSS, JavaScript)
+- 🎨 UI/UX & Canva Designing
+- 📚 Creating and selling digital PDF products
+- 🌐 Building and growing my personal brand
+
+---
+
+## ⚡ Current Focus
+
+Right now, I’m focused on improving my frontend development skills and understanding how real-world websites are structured and designed.
+
+I’m also learning how design and code work together to create better user experiences.
+
+---
+
+## 🎯 Mindset
+
+> “I’m not trying to be perfect. I’m trying to be better than yesterday.”
 
 <!-- ================= CONNECT ================= -->
 
