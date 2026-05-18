@@ -6,8 +6,6 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&width=850&lines=Frontend+Developer;Graphic+Designer;Digital+Creator;Learning+JavaScript;Building+Clean+and+Aesthetic+Experiences"/>
 
-<br><br>
-
 <img src="https://media.tenor.com/e4OS4L0W3H0AAAAC/rengoku-akaza.gif" width="78%"/>
 
 </div>
